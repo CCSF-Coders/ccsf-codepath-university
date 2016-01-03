@@ -1,4 +1,4 @@
-| TJ P. ([Repo](https://github.com/tejen/codepath-tipsy)) ([Feedback Issue](https://github.com/tejen/codepath-tipsy/issues/1)) | 
+| Tejen "TJ" P. ([Repo](https://github.com/tejen/codepath-tipsy)) ([Feedback Issue](https://github.com/tejen/codepath-tipsy/issues/1)) | 
 | ---------------------------- | 
 | <img height="200" alt="gif" src="https://camo.githubusercontent.com/9a330662593bed8c2f489931fe134c161f0b2486/68747470733a2f2f7777772e74656a656e2e6e65742f7375622f696d67686f7374696e672f66353232393766346161623437363665616165333237376366373139323238342e676966" > 
 <img height="200" alt="iPad" src="https://camo.githubusercontent.com/de7c96e70b54091f8ce313c0505015a75a1f2230/68747470733a2f2f7777772e74656a656e2e6e65742f7375622f696d67686f7374696e672f36316634353365303462626566633933383330333838653164653831313035652e676966"> |
