@@ -155,6 +155,11 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ([Feedback Issue](https://github.com/dustynaugust/tipCalc_CodePathU/issues/1)) |
 | <img height="200" alt="gif" src="https://camo.githubusercontent.com/91ff6ade8f8a19ab3a8a030c0d89a47cec296147/687474703a2f2f692e696d6775722e636f6d2f3254424f7278382e67696666" > |
 
+| Wafi M. ([Repo](https://github.com/abosadiq/tips-Calculator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/abosadiq/tips-Calculator/issues/1)) |
+| <img height="200" alt="gif" src="https://github.com/abosadiq/tips-Calculator/blob/master/walkthrough.gif" > |
+
 | Mizuho T. ([Repo](https://github.com/abisoft/Tippy)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/abisoft/Tippy/issues/2)) |
@@ -190,11 +195,6 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ([Feedback Issue](https://github.com/outdoorsole/codepath-tips/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/outdoorsole/codepath-tips/blob/master/demo.gif" > |
 
-| Wafi M. ([Repo](https://github.com/abosadiq/tips-Calculator)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/abosadiq/tips-Calculator/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/abosadiq/tips-Calculator/blob/master/walkthrough.gif" > |
-
 | Guohua "Davis" X. ([Repo](https://github.com/Guohua-Xie/TipCal)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/Guohua-Xie/TipCal/issues/1)) |
@@ -223,7 +223,7 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | Katherine M. ([Repo](https://github.com/kmolo/tips/)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/kmolo/tips/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/kmolo/tips/blob/master/tips.gif" > |
+| <img height="200" alt="gif" src="https://camo.githubusercontent.com/e89c86a737f999764065efe98aea219f5559e533/687474703a2f2f692e696d6775722e636f6d2f4179354d3338642e676966" > |
 
 
 ---
