@@ -115,11 +115,6 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ([Feedback Issue](https://github.com/r3dcrosse/tipCalculator/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/r3dcrosse/tipCalculator/blob/master/tipCalcDemo_v3.gif" > |
 
-| Chris S. ([Repo](https://github.com/chrissoria/tipscalc)) |
-| ------------- | 
-|([Feedback Issue](https://github.com/chrissoria/tipscalc/issues/1)) | 
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/0d7057d1d97671769698e8e9b874ed9321d14740/687474703a2f2f692e696d6775722e636f6d2f4c6c434c4d61422e676966" > |
-
 | Che Chao H. ([Repo](https://github.com/RealCaliforniaCheese/tip-calculator)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/RealCaliforniaCheese/tip-calculator/issues/1)) |
@@ -160,11 +155,6 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ([Feedback Issue](https://github.com/abosadiq/tips-Calculator/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/abosadiq/tips-Calculator/blob/master/walkthrough.gif" > |
 
-| Mizuho T. ([Repo](https://github.com/abisoft/Tippy)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/abisoft/Tippy/issues/2)) |
-| <img height="200" alt="gif" src="https://github.com/abisoft/Tippy/blob/master/tippy.gif" > |
-
 | Xinxin "Cindy" X. ([Repo](https://github.com/CindyXie/CodePath1Prework_TipCalculator)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/CindyXie/CodePath1Prework_TipCalculator/issues/1)) |
@@ -174,6 +164,26 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/ristau/TipCalc/issues/1)) |
 | <img height="200" alt="gif" src="https://camo.githubusercontent.com/29a1345628389caab946ce8f3b0257155e4447be/687474703a2f2f68696c6c732e636373662e6564752f7e627269737461752f54697043616c63576974684261636b67726f756e64496d6167652e676966" > |
+
+| Guohua "Davis" X. ([Repo](https://github.com/Guohua-Xie/TipCal)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Guohua-Xie/TipCal/issues/1)) |
+| <img height="200" alt="gif" src="https://camo.githubusercontent.com/3ccaa4010ca71f950d73da8ba176a678ca65704b/687474703a2f2f692e696d6775722e636f6d2f7a614a57636b372e676966" > |
+
+| Brian B. ([Repo](https://github.com/Briames/Bringer-Tip-Calculator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Briames/Bringer-Tip-Calculator/issues/1)) |
+| <img height="200" alt="gif" src="https://github.com/Briames/Bringer-Tip-Calculator/blob/master/GIFFY.gif" > |
+
+| Chris S. ([Repo](https://github.com/chrissoria/tipscalc)) |
+| ------------- | 
+|([Feedback Issue](https://github.com/chrissoria/tipscalc/issues/1)) | 
+| <img height="200" alt="gif" src="https://camo.githubusercontent.com/0d7057d1d97671769698e8e9b874ed9321d14740/687474703a2f2f692e696d6775722e636f6d2f4c6c434c4d61422e676966" > |
+
+| Mizuho T. ([Repo](https://github.com/abisoft/Tippy)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/abisoft/Tippy/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/abisoft/Tippy/blob/master/tippy.gif" > |
 
 | Richard R. ([Repo](https://github.com/Hella-Spaced/tips-master-2)) | 
 | ---------------------------- | 
@@ -195,11 +205,6 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ([Feedback Issue](https://github.com/outdoorsole/codepath-tips/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/outdoorsole/codepath-tips/blob/master/demo.gif" > |
 
-| Guohua "Davis" X. ([Repo](https://github.com/Guohua-Xie/TipCal)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/Guohua-Xie/TipCal/issues/1)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/3ccaa4010ca71f950d73da8ba176a678ca65704b/687474703a2f2f692e696d6775722e636f6d2f7a614a57636b372e676966" > |
-
 | Anton S. ([Repo](https://github.com/Tragicomedian/TipMachine)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/Tragicomedian/TipMachine/issues/1)) |
@@ -215,16 +220,20 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ([Feedback Issue](https://github.com/makkhay/Tip_Calculator/issues)) |
 | <img height="200" alt="gif" src="https://github.com/makkhay/Tip_Calculator/blob/master/Gifs1.gif" > |
 
-| Brian B. ([Repo](https://github.com/Briames/Bringer-Tip-Calculator)) | 
+| Carlos O. ([Repo](https://github.com/carlosoh14/-Pre-Work-Tip-Calculator)) | 
 | ---------------------------- | 
-| ([Feedback Issue](https://github.com/Briames/Bringer-Tip-Calculator/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/Briames/Bringer-Tip-Calculator/blob/master/GIFFY.gif" > |
+| ([Feedback Issue](https://github.com/carlosoh14/-Pre-Work-Tip-Calculator/issues/1)) |
+| <img height="200" alt="gif" src="https://raw.githubusercontent.com/carlosoh14/-Pre-Work-Tip-Calculator/master/tips.gif" > |
+
+| Ka Kin "Ken" C. ([Repo](https://github.com/aeaopa79191/PreworkTipCalculator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/aeaopa79191/PreworkTipCalculator/issues/1)) |
+| <img height="200" alt="gif" src="https://github.com/aeaopa79191/PreworkTipCalculator/blob/master/tips.gif" > |
 
 | Katherine M. ([Repo](https://github.com/kmolo/tips/)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/kmolo/tips/issues/1)) |
 | <img height="200" alt="gif" src="https://camo.githubusercontent.com/e89c86a737f999764065efe98aea219f5559e533/687474703a2f2f692e696d6775722e636f6d2f4179354d3338642e676966" > |
-
 
 ---
 Template:
