@@ -155,6 +155,16 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ([Feedback Issue](https://github.com/abosadiq/tips-Calculator/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/abosadiq/tips-Calculator/blob/master/walkthrough.gif" > |
 
+| Manthan "Monte" T. ([Repo](https://github.com/Monte9/Tip-er-App)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Monte9/Tip-er-App/issues/1)) |
+| <img height="200" alt="gif" src="https://camo.githubusercontent.com/03b89c382ac9f06e70a2d194d9719025c8bfa694/687474703a2f2f692e696d6775722e636f6d2f716f666d6f54342e676966" > |
+
+| Douglas L. ([Repo](https://github.com/zhidev/ZhiDev-Tipulator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/zhidev/ZhiDev-Tipulator/issues/1)) |
+| <img height="200" alt="gif" src="https://camo.githubusercontent.com/0fae1bfbe65a84ed8229d728717c0be56162876d/687474703a2f2f692e696d6775722e636f6d2f6743586f6635302e676966" > |
+
 | Xinxin "Cindy" X. ([Repo](https://github.com/CindyXie/CodePath1Prework_TipCalculator)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/CindyXie/CodePath1Prework_TipCalculator/issues/1)) |
@@ -234,6 +244,7 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/kmolo/tips/issues/1)) |
 | <img height="200" alt="gif" src="https://camo.githubusercontent.com/e89c86a737f999764065efe98aea219f5559e533/687474703a2f2f692e696d6775722e636f6d2f4179354d3338642e676966" > |
+
 
 ---
 Template:
