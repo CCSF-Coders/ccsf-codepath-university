@@ -1,7 +1,7 @@
 ### CCSF submissions for CodePath University Spring 2016 iOS
 
 - [prework](prework.md)
-- assignment #1
+- [week 1 - flicks](week1-flicks.md)
 - assignment #2
 - assignment #3
 - assignment #4
