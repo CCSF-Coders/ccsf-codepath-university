@@ -108,7 +108,7 @@
 | Eric Z. ([Repo](https://github.com/WildElf/flicks)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/WildElf/flicks/issues/2)) |
-| <img height="200" alt="gif" src="https://github.com/WildElf/flicks/blob/master/flicks.gif" > |
+| <img height="200" alt="gif" src="https://github.com/WildElf/flicks/blob/master/flicks3.gif" > |
 
 | Makhmud I. ([Repo](https://github.com/makhmudislamov/FlicksApp)) | 
 | ---------------------------- | 
