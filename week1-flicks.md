@@ -41,7 +41,7 @@
 | Veronika K. ([Repo](https://github.com/Veronika-Kot/Movies)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/Veronika-Kot/Movies/issues/1)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/a5574637d32ba29554aa132c74e59107f21e33c4/687474703a2f2f692e696d6775722e636f6d2f707a47765838392e6769663f31" > |
+| <img height="200" alt="gif" src="http://i.imgur.com/pzGvX89.gif" > |
 
 | Yousef K. ([Repo](https://github.com/YousefKazerooni/MovieViewer)) | 
 | ---------------------------- | 
