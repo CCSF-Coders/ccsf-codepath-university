@@ -56,6 +56,11 @@
 | ([Feedback Issue](https://github.com/r3dcrosse/MovieViewer/issues/8)) |
 | <img height="200" alt="gif" src="https://github.com/r3dcrosse/MovieViewer/blob/master/Screenshots/MovieViewer_v4.gif" > |
 
+| Douglas L. ([Repo](https://github.com/zhidev/MovieViewer)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/zhidev/MovieViewer/issues/5)) |
+| <img height="200" alt="gif" src="https://github.com/zhidev/MovieViewer/raw/master/MovieViewer2.gif" > |
+
 | Dustyn A. ([Repo](https://github.com/dustynaugust/MovieViewer)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/dustynaugust/MovieViewer/issues/3)) |
@@ -76,10 +81,35 @@
 | ([Feedback Issue](https://github.com/ndyoussfi/flix-week2/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/ndyoussfi/flix-week2/blob/master/Movies2.gif" > |
 
+| Oranuch T. ([Repo](https://github.com/otangdec/Flicks)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/otangdec/Flicks/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/otangdec/Flicks/raw/master/Flicks-2.gif" > |
+
 | Sarn W. ([Repo](https://github.com/mrpaxton/flicks-codepath)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/mrpaxton/flicks-codepath/issues/1#issuecomment-174476182)) |
 | <img height="200" alt="gif" src="https://github.com/mrpaxton/flicks-codepath/raw/master/flicks-walkthrough.gif" > |
+
+| Thanh P. ([Repo](https://github.com/tpham44/MoviesApp)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/tpham44/MoviesApp/issues/1)) |
+| <img height="200" alt="gif" src="https://github.com/tpham44/MoviesApp/blob/master/DemoAppFunds.gif" > |
+
+| Wafi M. ([Repo](https://github.com/abosadiq/movieviewer)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/abosadiq/movieviewer/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/abosadiq/movieviewer/raw/master/walkthrough_2.gif" > |
+
+| Youcef I. ([Repo](https://github.com/iratni/MovieBrowsing)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/iratni/MovieBrowsing/issues/3)) |
+| <img height="200" alt="gif" src="https://github.com/iratni/MovieBrowsing/blob/master/MovieBrowsing2.gif" > |
+
+| Yousef K. ([Repo](https://github.com/YousefKazerooni/MovieViewer)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/YousefKazerooni/MovieViewer/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/YousefKazerooni/MovieViewer/raw/master/MovieViewer_Final1.gif" > |
 
 | Zhipeng "Adrian" M. ([Repo](https://github.com/mlovesexmagic/MovieView)) | 
 | ---------------------------- | 
@@ -91,130 +121,89 @@
 #####CCSF submissions: (1 of 2 optionals)
 ---
 
+| Carlos O. ([Repo](https://github.com/icarlitoss/Flicks)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/icarlitoss/Flicks/issues/5)) |
+| <img height="200" alt="gif" src="https://github.com/icarlitoss/Flicks/blob/master/Flicks4.gif" > |
+
+| Jay M. ([Repo](https://github.com/Jaymenezes/snap_assigmt1) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Jaymenezes/snap_assigmt1/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/Jaymenezes/snap_assigmt1/raw/master/gif_snap_2.gif" > |
+
+| Makhmud I. ([Repo](https://github.com/makhmudislamov/FlicksApp)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/makhmudislamov/FlicksApp/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/makhmudislamov/FlicksApp/blob/master/Walkthrough2.gif" > |
+
+| Xinxin "Cindy" X. ([Repo](https://github.com/CindyXie/Flicks)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/CindyXie/Flicks/issues/2)) |
+| <img height="200" alt="gif" src="https://raw.githubusercontent.com/CindyXie/Flicks/master/Flicks/flicksDemoWeek2.gif" > |
 
 ---
 #####CCSF submissions: (3 of 3 required)
 ---
-
-| John G. ([Repo](https://github.com/jbgann/kinejo)) |
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/jbgann/gratuify/issues/1))  | 
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/0cb7ec7b7c8df59b9ec90821830debdb176ed2d7/687474703a2f2f692e696d6775722e636f6d2f493535504672472e676966" > | 
-
-
----
-
-
-
-| Yousef K. ([Repo](https://github.com/YousefKazerooni/MovieViewer)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/YousefKazerooni/MovieViewer/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/YousefKazerooni/MovieViewer/blob/master/Movie_Viewer_Jan24.gif" > |
-
-| Douglas L. ([Repo](https://github.com/zhidev/MovieViewer)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/zhidev/MovieViewer/issues/3)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/2c67abc5538cc0e64a7f91932635084ab070d84c/687474703a2f2f692e696d6775722e636f6d2f473741717230342e676966" > |
-
-
-| Oranuch T. ([Repo](https://github.com/otangdec/Flicks)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/otangdec/Flicks/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/otangdec/Flicks/blob/master/Flicks-1.gif" > |
-
-| Xinxin "Cindy" X. ([Repo](https://github.com/CindyXie/Flicks)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/CindyXie/Flicks/issues/1)) |
-| <img height="200" alt="gif" src="https://raw.githubusercontent.com/CindyXie/Flicks/master/Flicks/flicks.gif" > |
-
 
 | Alejandro S. ([Repo](https://github.com/asancheza/movies-swift)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/asancheza/movies-swift/issues/2)) |
 | <img height="200" alt="gif" src="https://github.com/asancheza/movies-swift/blob/master/topmovies.gif" > |
 
-| Eric Z. ([Repo](https://github.com/WildElf/flicks)) | 
+| Brian B. ([Repo](https://github.com/Briames/Bricks)) | 
 | ---------------------------- | 
-| ([Feedback Issue](https://github.com/WildElf/flicks/issues/2)) |
-| <img height="200" alt="gif" src="https://github.com/WildElf/flicks/blob/master/flicks.gif" > |
-
-| Makhmud I. ([Repo](https://github.com/makhmudislamov/FlicksApp)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/makhmudislamov/FlicksApp/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/makhmudislamov/FlicksApp/blob/master/Walkthrough.gif" > |
-
-
-| Thanh P. ([Repo](https://github.com/tpham44/MoviesApp)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/tpham44/MoviesApp/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/tpham44/MoviesApp/blob/master/DemoAppFunds.gif" > |
-
-
-| Guohua "Davis" X. ([Repo](https://github.com/Guohua-Xie/Flicks)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/Guohua-Xie/Flicks/issues/1)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/52458fadc8203cc5c7a0e4c9c6e85b6810c7b9c9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37726334504243366a5376445a3839612f67697068792e676966" > |
-
-| Jay M. ([Repo](https://github.com/Jaymenezes/snap_assigmt1) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/Jaymenezes/snap_assigmt1/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/Jaymenezes/snap_assigmt1/raw/master/gif_snap.gif" > |
-
-| Majid R ([Repo](https://github.com/Farhad33/TheMovieDatabase)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/Farhad33/TheMovieDatabase/issues/2)) |
-| <img height="200" alt="gif" src="https://github.com/Farhad33/TheMovieDatabase/blob/master/Movie.gif" > |
-
-| Wafi M. ([Repo](https://github.com/abosadiq/movieviewer)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/abosadiq/movieviewer/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/abosadiq/movieviewer/blob/master/walkthrough.gif" > |
-
-| Carlos O. ([Repo](https://github.com/icarlitoss/Flicks)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/icarlitoss/Flicks/issues/2)) |
-| <img height="200" alt="gif" src="https://github.com/icarlitoss/Flicks/blob/master/MovieViewer.gif" > |
+| ([Feedback Issue](https://github.com/Briames/Bricks/issues/2)) |
+| <img height="200" alt="gif" src="https://camo.githubusercontent.com/583e29f6b4d32f28acacc7e0e11ec99dafa54a10/687474703a2f2f692e696d6775722e636f6d2f684f4759356a432e676966" > |
 
 | Chris S. ([Repo](https://github.com/chrissoria/moviesapp)) |
 | ------------- | 
 |([Feedback Issue](https://github.com/chrissoria/moviesapp/issues/2)) | 
 | <img height="200" alt="gif" src="https://camo.githubusercontent.com/7368fed6ebaa3bdaea226be5073316ba99d5efa0/68747470733a2f2f692e696d6775722e636f6d2f466f7a7a734e422e676966" > |
 
+| Dylan S. ([Repo](https://github.com/dylan-james-smith/CPU-Flicks)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/dylan-james-smith/CPU-Flicks/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/dylan-james-smith/CPU-Flicks/raw/master/walkthrough2.gif" > |
+
+| Eric Z. ([Repo](https://github.com/WildElf/flicks)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/WildElf/flicks/issues/4)) |
+| <img height="200" alt="gif" src="https://github.com/WildElf/flicks/blob/master/flicks.gif" > |
+
+| Esme R. ([Repo](https://github.com/esme27/Flicks)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/esme27/Flicks/issues/5)) |
+| <img height="200" alt="gif" src="https://github.com/esme27/Flicks/raw/master/fliks2.gif" > |
+
+| Jenn K. ([Repo](https://github.com/jennkwan/flicks1)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/jennkwan/flicks1/issues/3)) |
+| <img height="200" alt="gif" src="https://github.com/jennkwan/flicks1/blob/master/movieViewer2.gif" > |
+
+| John G. ([Repo](https://github.com/jbgann/kinejo)) |
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/jbgann/gratuify/issues/1))  | 
+| <img height="200" alt="gif" src="https://camo.githubusercontent.com/0cb7ec7b7c8df59b9ec90821830debdb176ed2d7/687474703a2f2f692e696d6775722e636f6d2f493535504672472e676966" > | 
+
 | Ka Kin "Ken" C. ([Repo](https://github.com/aeaopa79191/Week1-Flicks)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/aeaopa79191/Week1-Flicks/issues/2)) |
 | <img height="200" alt="gif" src="https://github.com/aeaopa79191/Week1-Flicks/blob/master/flick.gif" > |
 
-| Youcef I. ([Repo](https://github.com/iratni/MovieBrowsing)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/iratni/MovieBrowsing/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/iratni/MovieBrowsing/blob/master/MovieBrowsing.gif" > |
-
-| Dylan S. ([Repo](https://github.com/dylan-james-smith/CPU-Flicks)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/dylan-james-smith/CPU-Flicks/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/dylan-james-smith/CPU-Flicks/blob/master/walkthrough.gif" > |
-
-
-| Brian B. ([Repo](https://github.com/Briames/Bricks)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/Briames/Bricks/issues/2)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/583e29f6b4d32f28acacc7e0e11ec99dafa54a10/687474703a2f2f692e696d6775722e636f6d2f684f4759356a432e676966" > |
-
-| Esme R. ([Repo](https://github.com/esme27/Flicks)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/esme27/Flicks/issues/3)) |
-| <img height="200" alt="gif" src="" > |
-
-| Jenn K. ([Repo](https://github.com/jennkwan/flicks1)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/jennkwan/flicks1/issues/2)) |
-| <img height="200" alt="gif" src="https://github.com/jennkwan/flicks1/blob/master/movieViewer.gif" > |
-
 | Kate S. ([Repo](https://github.com/katesuttner/Flicks)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/katesuttner/Flicks/issues/1)) |
 | <img height="200" alt="gif" src="http://i.imgur.com/2T5JB6X.gif" > |
+
+| Katherine M. ([Repo](https://github.com/kmolo/MovieViewer)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/kmolo/MovieViewer/issues/1)) |
+| <img height="200" alt="gif" src="http://i.imgur.com/wUzWcUb.gif" > |
+
+| Majid R ([Repo](https://github.com/Farhad33/TheMovieDatabase)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Farhad33/TheMovieDatabase/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/Farhad33/TheMovieDatabase/blob/master/Movie.gif" > |
 
 | Maribel G. ([Repo](https://github.com/outdoorsole/Flicks)) | 
 | ---------------------------- | 
@@ -231,20 +220,18 @@
 | ([Feedback Issue](https://github.com/HorvathTom/Flicks/issues/2)) |
 | <img height="200" alt="gif" src="https://raw.githubusercontent.com/HorvathTom/Flicks/master/Flicks-walkthrough.gif" > |
 
-| Katherine M. ([Repo](https://github.com/kmolo/MovieViewer)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/kmolo/MovieViewer/issues/1)) |
-| <img height="200" alt="gif" src="http://i.imgur.com/wUzWcUb.gif" > |
-
 ---
-
-
 ---
 
 | Cris P. ([Repo](https://github.com/crispadilla/Flicks))|
 | ------------- | 
-| ([Feedback Issue](https://github.com/crispadilla/TipCalculator/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/crispadilla/Flicks/blob/master/Flicks.gif" >  | 
+| ([Feedback Issue]()) |
+| <img height="200" alt="gif" src="" >  | 
+
+| Guohua "Davis" X. ([Repo](https://github.com/Guohua-Xie/Flicks)) | 
+| ---------------------------- | 
+| ([Feedback Issue]()) |
+| <img height="200" alt="gif" src="" > |
 
 
 ---
