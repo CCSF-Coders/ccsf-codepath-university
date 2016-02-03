@@ -2,7 +2,7 @@
 
 - [prework](prework.md)
 - [week 1 - flicks](week1-flicks.md)
-- assignment #2
+- [week 2 - flicks](week2-flicks.md)
 - assignment #3
 - assignment #4
 - demo day
