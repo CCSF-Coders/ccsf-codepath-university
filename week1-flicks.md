@@ -20,15 +20,14 @@
 | ([Feedback Issue](https://github.com/imoran/Flicks/issues/2)) |
 | <img height="200" alt="gif" src="https://github.com/imoran/Flicks/blob/master/MovieDatabaseFinal.gif" > |
 
-| Cris P. ([Repo](https://github.com/crispadilla/Flicks/issues/1))|
+| Cris P. ([Repo](https://github.com/crispadilla/Flicks))|
 | ------------- | 
 | ([Feedback Issue](https://github.com/crispadilla/TipCalculator/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/crispadilla/Flicks/blob/master/Flicks.gif" >  | 
 
-| Jasmine F. ([Repo](https://github.com/jasmineiris/cpProj-1)) | 
+| Jasmine F. ([Repo](https://github.com/jasmineiris/cpProj-1)) ([Feedback Issue](https://github.com/jasmineiris/cpProj-1/issues/1)) | 
 | ---------------------------- | 
-| ([Feedback Issue](https://github.com/jasmineiris/cpProj-1/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/2MovieHub.gif" > |
+| <img height="200" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHub.gif" >  <img height="200" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHubError.gif" > |
 
 | Eric C. ([Repo](https://github.com/EricSFChu/iOSFlicksEC)) ([Feedback Issue](https://github.com/EricSFChu/iOSFlicksEC/issues/1)) | 
 | ---------------------------- | 
@@ -99,7 +98,7 @@
 | Anurag N. ([Repo](https://github.com/anuragNanda11/FlicksApp)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/anuragNanda11/FlicksApp/issues/1)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/6beee8bf455953a26d8ad07852cc0f8b6773aa13/687474703a2f2f692e696d6775722e636f6d2f685532655043552e676966" > |
+| <img height="200" alt="gif" src="http://i.imgur.com/hU2ePCU.gif" > |
 
 | Che Chao H. ([Repo](https://github.com/RealCaliforniaCheese/Flicks)) | 
 | ---------------------------- | 
