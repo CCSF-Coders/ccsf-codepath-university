@@ -1,9 +1,35 @@
-#####Assignment #1 given by CodePath for Spring 2016 University iOS:
-([README template](http://courses.codepath.com/snippets/ios_university/readme_templates/assignment_1_readme.md?raw=true))([YouTube playlist of instructional videos](https://www.youtube.com/watch?v=XvMcmNozy68&index=1&list=PLrT2tZ9JRrf742tAoln7wjPsCm8dmuYyv))
+#####Assignment #2 given by CodePath for Spring 2016 University iOS:
+([README template](http://courses.codepath.com/snippets/ios_university/readme_templates/assignment_2_readme.md?raw=true))(YouTube playlist of instructional videos: [Week 1](https://www.youtube.com/watch?v=XvMcmNozy68&index=1&list=PLrT2tZ9JRrf742tAoln7wjPsCm8dmuYyv) + [Week 2](https://www.youtube.com/playlist?list=PLrT2tZ9JRrf4mZnCIDXI8sdSg2IxWoj3K))
 
 ---
 #####CCSF submissions: (2 of 2 optionals)
 ---
+
+| Jasmine F. ([Repo](https://github.com/jasmineiris/cpProj-1/blob/master/README2.md)) ([Feedback Issue](https://github.com/jasmineiris/cpProj-1/issues/3)) | 
+| ---------------------------- | 
+| <img height="200" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHub.gif" >  <img height="200" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHubError.gif" >
+<img height="25" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHub1.gif" >|
+
+| Tejen "TJ" P. ([Repo](https://github.com/tejen/codepath-flicks)) ([Feedback Issue](https://github.com/tejen/codepath-flicks/issues/2)) |
+| ---------------------------- | 
+| <img height="200" alt="gif" src="http://img.tejen.net/d1014e763325a74d2640f9b8dd8f3b85.gif" > |
+| <a href="https://www.youtube.com/watch?v=pzkrRNaizEM" target="_blank"><img src="http://x.tejen.net/bqn" alt="walkthrough" width="300" border="10" /></a> |
+| (video) |
+
+| Veronika K. ([Repo](https://github.com/Veronika-Kot/Movies)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Veronika-Kot/Movies/issues/2)) |
+| <img height="200" alt="gif" src="http://i.imgur.com/vd8xwXJ.gif" > |
+
+| Eric C. ([Repo](https://github.com/EricSFChu/iOSFlicksEC)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/EricSFChu/iOSFlicksEC/issues/11)) |
+| <img height="200" alt="gif" src="https://github.com/EricSFChu/iOSFlicksEC/blob/master/WeekTwoUpdated5.gif" > |
+
+| Manthan "Monte" T. ([Repo](https://github.com/Monte9/Project1-CodePathU)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Monte9/Project1-CodePathU/issues/3)) |
+| <img height="200" alt="gif" src="https://github.com/Monte9/Project1-CodePathU/blob/master/FlickM-%20Final%20UI.gif" > |
 
 | Ali H. ([Repo](https://github.com/alhadwan/MovieViewer)) | 
 | ---------------------------- | 
@@ -35,30 +61,15 @@
 | ([Feedback Issue](https://github.com/dustynaugust/MovieViewer/issues/3)) |
 | <img height="200" alt="gif" src="https://github.com/dustynaugust/MovieViewer/blob/master/movieViewerWalkthrough2.gif" > |
 
-| Eric C. ([Repo](https://github.com/EricSFChu/iOSFlicksEC)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/EricSFChu/iOSFlicksEC/issues/11)) |
-| <img height="200" alt="gif" src="https://github.com/EricSFChu/iOSFlicksEC/blob/master/WeekTwoUpdated5.gif" > |
-
 | Isis M. ([Repo](https://github.com/imoran/Flicks)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/imoran/Flicks/issues/4)) |
 | <img height="200" alt="gif" src="https://github.com/imoran/Flicks/blob/master/MovieDatabase6.gif" > |
 
-| Jasmine F. ([Repo](https://github.com/jasmineiris/cpProj-1/blob/master/README2.md)) ([Feedback Issue](https://github.com/jasmineiris/cpProj-1/issues/3)) | 
-| ---------------------------- | 
-| <img height="200" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHub.gif" >  <img height="200" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHubError.gif" >
-<img height="25" alt="gif" src="https://github.com/jasmineiris/cpProj-1/blob/master/MovieHub1.gif" >|
-
 | Juan H. ([Repo](https://github.com/Andobas/MovieViewer)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/Andobas/MovieViewer/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/Andobas/MovieViewer/blob/master/movieViewerWeek1.gif" > |
-
-| Manthan "Monte" T. ([Repo](https://github.com/Monte9/Project1-CodePathU)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/Monte9/Project1-CodePathU/issues/2)) |
-| <img height="200" alt="gif" src="https://github.com/Monte9/Project1-CodePathU/blob/master/FlickM-final.gif" > |
 
 | Noureddine Y. ([Repo](https://github.com/ndyoussfi/Cinebrowser)) | 
 | ---------------------------- | 
@@ -70,10 +81,7 @@
 | ([Feedback Issue](https://github.com/mrpaxton/flicks-codepath/issues/1)) |
 | <img height="200" alt="gif" src="https://github.com/mrpaxton/flicks-codepath/blob/master/flicks-walkthrough.gif" > |
 
-| Veronika K. ([Repo](https://github.com/Veronika-Kot/Movies)) | 
-| ---------------------------- | 
-| ([Feedback Issue](https://github.com/Veronika-Kot/Movies/issues/1)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/a5574637d32ba29554aa132c74e59107f21e33c4/687474703a2f2f692e696d6775722e636f6d2f707a47765838392e6769663f31" > |
+
 
 
 | Zhipeng "Adrian" M. ([Repo](https://github.com/mlovesexmagic/MovieView)) | 
@@ -99,10 +107,7 @@
 
 ---
 
-| Tejen "TJ" P. ([Repo](https://github.com/tejen/codepath-flicks)) ([Feedback Issue](https://github.com/tejen/codepath-flicks/issues/2)) |
-| ---------------------------- | 
-| <a href="https://www.youtube.com/watch?v=pzkrRNaizEM" target="_blank"><img src="http://x.tejen.net/bqn" alt="walkthrough" width="240" height="180" border="10" /></a> |
-| (video) |
+
 
 | Yousef K. ([Repo](https://github.com/YousefKazerooni/MovieViewer)) | 
 | ---------------------------- | 
