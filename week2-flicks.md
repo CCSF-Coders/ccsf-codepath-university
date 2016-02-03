@@ -68,26 +68,23 @@
 
 | Juan H. ([Repo](https://github.com/Andobas/MovieViewer)) | 
 | ---------------------------- | 
-| ([Feedback Issue](https://github.com/Andobas/MovieViewer/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/Andobas/MovieViewer/blob/master/movieViewerWeek1.gif" > |
+| ([Feedback Issue](https://github.com/Andobas/MovieViewer/issues/2)) |
+| <img height="200" alt="gif" src="https://github.com/Andobas/MovieViewer/raw/master/movie_viewer_week2Final.gif" > |
 
-| Noureddine Y. ([Repo](https://github.com/ndyoussfi/Cinebrowser)) | 
+| Noureddine Y. ([Repo](https://github.com/ndyoussfi/flix-week2)) | 
 | ---------------------------- | 
-| ([Feedback Issue](https://github.com/ndyoussfi/Cinebrowser/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/ndyoussfi/Cinebrowser/blob/master/Movies.gif" > |
+| ([Feedback Issue](https://github.com/ndyoussfi/flix-week2/issues/1)) |
+| <img height="200" alt="gif" src="https://github.com/ndyoussfi/flix-week2/blob/master/Movies2.gif" > |
 
 | Sarn W. ([Repo](https://github.com/mrpaxton/flicks-codepath)) | 
 | ---------------------------- | 
-| ([Feedback Issue](https://github.com/mrpaxton/flicks-codepath/issues/1)) |
-| <img height="200" alt="gif" src="https://github.com/mrpaxton/flicks-codepath/blob/master/flicks-walkthrough.gif" > |
-
-
-
+| ([Feedback Issue](https://github.com/mrpaxton/flicks-codepath/issues/1#issuecomment-174476182)) |
+| <img height="200" alt="gif" src="https://github.com/mrpaxton/flicks-codepath/raw/master/flicks-walkthrough.gif" > |
 
 | Zhipeng "Adrian" M. ([Repo](https://github.com/mlovesexmagic/MovieView)) | 
 | ---------------------------- | 
-| ([Feedback Issue](https://github.com/mlovesexmagic/MovieView/issues/3)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/0888b3296558a1dd75104ddd323e7b7b80550b60/687474703a2f2f692e696d6775722e636f6d2f32386d327767672e676966" > |
+| ([Feedback Issue](https://github.com/mlovesexmagic/MovieView/issues/4)) |
+| <img height="200" alt="gif" src="http://i.imgur.com/X7OkblI.gif" > |
 
 
 ---
