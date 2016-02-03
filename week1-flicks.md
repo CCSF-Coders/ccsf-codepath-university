@@ -51,7 +51,7 @@
 | Douglas L. ([Repo](https://github.com/zhidev/MovieViewer)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/zhidev/MovieViewer/issues/3)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/2c67abc5538cc0e64a7f91932635084ab070d84c/687474703a2f2f692e696d6775722e636f6d2f473741717230342e676966" > |
+| <img height="200" alt="gif" src="http://i.imgur.com/G7Aqr04.gif" > |
 
 ---
 #####CCSF submissions: (4 of 5 optionals)
