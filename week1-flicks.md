@@ -65,7 +65,7 @@
 | Zhipeng "Adrian" M. ([Repo](https://github.com/mlovesexmagic/MovieView)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/mlovesexmagic/MovieView/issues/3)) |
-| <img height="200" alt="gif" src="https://camo.githubusercontent.com/0888b3296558a1dd75104ddd323e7b7b80550b60/687474703a2f2f692e696d6775722e636f6d2f32386d327767672e676966" > |
+| <img height="200" alt="gif" src="http://i.imgur.com/28m2wgg.gif" > |
 
 ---
 #####CCSF submissions: (3 of 5 optionals)
