@@ -35,6 +35,14 @@ http://courses.codepath.com/snippets/web_security_university/prework
 | <img height="300" alt="gif" src="https://github.com/XinxinXie/WSPreWork_TipCalculator/blob/master/TCDemo.gif?raw=true" > |
 
 
+---
+#####SFSU submissions:
+
+| Lijie Z. ([Repo](https://github.com/LijieZhou/tipCalculator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/LijieZhou/tipCalculator/issues/1)) |
+| <img height="300" alt="gif" src="http://i.imgur.com/BJdTBAM.gif" > |
+
 
 ---
 Template:
