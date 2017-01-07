@@ -1,8 +1,9 @@
-###Prework assignment given by CodePath for Spring 2017 University Web App Security:
+#####Prework assignment given by CodePath for Spring 2017 University Web App Security:
 http://courses.codepath.com/snippets/web_security_university/prework
 
+
+#CCSF submissions:
 ---
-###CCSF submissions:
 
 | Juan L. ([Repo](https://github.com/jlara310/tipster)) | 
 | ---------------------------- | 
@@ -34,8 +35,10 @@ http://courses.codepath.com/snippets/web_security_university/prework
 | ([Feedback Issue](https://github.com/bloodmage-xD/php/issues/1)) |
 | <img height="300" alt="gif" src="http://imgur.com/Z7oe6MQ.gif" > |
 
+
 ---
-###SFSU submissions:
+#SFSU submissions:
+---
 
 | Lijie Z. ([Repo](https://github.com/LijieZhou/tipCalculator)) | 
 | ---------------------------- | 
@@ -44,7 +47,8 @@ http://courses.codepath.com/snippets/web_security_university/prework
 
 
 ---
-###UCSD submissions:
+#UCSD submissions:
+---
 
 | Tejen P. ([Repo](https://github.com/tejen/codepath-web-tipsy)) | 
 | ---------------------------- | 
