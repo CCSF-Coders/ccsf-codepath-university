@@ -27,7 +27,7 @@ http://courses.codepath.com/snippets/web_security_university/prework
 | Andrew M. ([Repo](https://github.com/bloodmage-xD/php)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/bloodmage-xD/php/issues/1)) |
-| <img height="300" alt="gif" src="http://imgur.com/a/cQJs0.gif" > |
+| <img height="300" alt="gif" src="http://imgur.com/Z7oe6MQ.gif" > |
 
 | Xinxin X. ([Repo](https://github.com/XinxinXie/WSPreWork_TipCalculator)) | 
 | ---------------------------- | 
