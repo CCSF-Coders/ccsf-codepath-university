@@ -11,34 +11,28 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | <img height="300" alt="gif" src="http://imagizer.imageshack.us/a/img924/8817/NSylqY.gif" > || <img height="300" alt="gif" src="https://media.giphy.com/media/l0MYs8p53CnB40VQA/giphy.gif" > || <img height="300" alt="gif" src="http://i.imgur.com/moNjLeA.gif" > |
 
 
-| Barbara R. ([Repo](https://github.com/ristau/TipCalc2017)) | | Mitchell W. ([Repo](https://github.com/mitcho426/tipCalc)) | | Robert M. ([Repo](https://github.com/squeakyheatr/Tip-Calc)) | 
+| Barbara R. ([Repo](https://github.com/ristau/TipCalc2017)) | | Mitchell W. ([Repo](https://github.com/mitcho426/tipCalc)) | | Robert M. ([Repo](https://github.com/squeakyheatr/Tip-Calc)) | | Mihwa A. ([Repo](https://github.com/mhsmile/TipCalculator)) | 
+| ---------------------------- |  ---------------------------- |  ---------------------------- | ---------------------------- |  ---------------------------- |  ---------------------------- |  ---------------------------- | 
+| ([Feedback Issue](https://github.com/ristau/TipCalc2017/issues/1)) | | ([Feedback Issue](https://github.com/mitcho426/tipCalc/issues/1)) | | (Feedback Issue) | | (Feedback Issue) | 
+| <img height="300" alt="gif" src="http://i.imgur.com/k8IH7My.gif" > | | <img height="300" alt="gif" src="http://imgur.com/fAQEM0h.gif" > | | <img height="300" alt="gif" src="http://imgur.com/GIO0dqp.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/AvndU31.gif" > |
+
+
+| Oscar R. ([Repo](https://github.com/Isutzu/TipCal)) | | Becky C. ([Repo](https://github.com/beckychan92/CodePath_Tippy)) | | Katherine M. ([Repo](https://github.com/kmolo/tips-swift3)) | | Lum S. ([Repo](https://github.com/LumSt/Tips-Calculator)) |
+| ---------------------------- |  ---------------------------- |  ---------------------------- | ---------------------------- |  ---------------------------- | ---------------------------- | ---------------------------- | 
+| (Feedback Issue) | | ([Feedback Issue](https://github.com/beckychan92/CodePath_Tippy/issues/1)) | | ([Feedback Issue](https://github.com/kmolo/tips-swift3/issues/1)) | | ([Feedback Issue](https://github.com/LumSt/Tips-Calculator/issues/1)) | 
+| <img height="300" alt="gif" src="http://i.imgur.com/6TRWKTY.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/b3PMK7z.gif" > | | <img height="300" alt="gif" src="http://imgur.com/B7Egg6y.gif" > | | <img height="300" alt="gif" src="http://imgur.com/lGTuHyd.gif" > | 
+
+
+| Umair K. ([Repo](https://github.com/mumairk/Code_Path_iOS)) | | David H. ([Repo](https://github.com/dlhead/tipcalculator)) | | Kyaw T. ([Repo](https://github.com/ethan166/iostipassassin)) | 
 | ---------------------------- |  ---------------------------- |  ---------------------------- | ---------------------------- |  ---------------------------- | 
-| ([Feedback Issue](https://github.com/ristau/TipCalc2017/issues/1)) | | ([Feedback Issue](https://github.com/mitcho426/tipCalc/issues/1)) | | Robert M. ([Repo](https://github.com/squeakyheatr/Tip-Calc)) | 
-| <img height="300" alt="gif" src="http://i.imgur.com/k8IH7My.gif" > | | <img height="300" alt="gif" src="http://imgur.com/fAQEM0h.gif" > | | <img height="300" alt="gif" src="http://imgur.com/GIO0dqp.gif" > |
+| ([Feedback Issue](https://github.com/mumairk/Code_Path_iOS/issues/1)) | | ([Feedback Issue](https://github.com/dlhead/tipcalculator/issues/1)) | | (Feedback Issue) |
+| <img height="300" alt="gif" src="https://github.com/mumairk/Code_Path_iOS/blob/master/Tip_Calculator.gif" > | | <img height="300" alt="gif" src="http://imgur.com/LtQoAaT.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/OHA2add.gif" > |
 
 
-| Mihwa A. ([Repo](https://github.com/mhsmile/TipCalculator)) | | Oscar R. ([Repo](https://github.com/Isutzu/TipCal)) | | Becky C. ([Repo](https://github.com/beckychan92/CodePath_Tippy)) | 
+| Edison L. ([Repo](https://github.com/elam3/warikan)) |  | Munkhtegsh M. ([Repo](https://github.com/munkhtegsh/tippo)) | | Jesse B. ([Repo](https://github.com/cityofwalls/TipTop)) | 
 | ---------------------------- |  ---------------------------- |  ---------------------------- | ---------------------------- |  ---------------------------- | 
-| (Feedback Issue) | | (Feedback Issue) | | ([Feedback Issue](https://github.com/beckychan92/CodePath_Tippy/issues/1)) |
-| <img height="300" alt="gif" src="http://i.imgur.com/AvndU31.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/6TRWKTY.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/b3PMK7z.gif" > |
-
-
-| Katherine M. ([Repo](https://github.com/kmolo/tips-swift3)) | | Lum S. ([Repo](https://github.com/LumSt/Tips-Calculator)) | | Umair K. ([Repo](https://github.com/mumairk/Code_Path_iOS)) | 
-| ---------------------------- |  ---------------------------- |  ---------------------------- | ---------------------------- |  ---------------------------- | 
-| ([Feedback Issue](https://github.com/kmolo/tips-swift3/issues/1)) | | ([Feedback Issue](https://github.com/LumSt/Tips-Calculator/issues/1)) | | ([Feedback Issue](https://github.com/mumairk/Code_Path_iOS/issues/1)) |
-| <img height="300" alt="gif" src="http://imgur.com/B7Egg6y.gif" > | | <img height="300" alt="gif" src="http://imgur.com/lGTuHyd.gif" > | | <img height="300" alt="gif" src="https://github.com/mumairk/Code_Path_iOS/blob/master/Tip_Calculator.gif" > |
-
-
-| Edison L. ([Repo](https://github.com/elam3/warikan)) | | David H. ([Repo](https://github.com/dlhead/tipcalculator)) | | Kyaw T. ([Repo](https://github.com/ethan166/iostipassassin)) | 
-| ---------------------------- |  ---------------------------- |  ---------------------------- | ---------------------------- |  ---------------------------- | 
-| ([Feedback Issue](https://github.com/elam3/warikan/issues/1)) | | ([Feedback Issue](https://github.com/dlhead/tipcalculator/issues/1)) | | (Feedback Issue) |
-| <img height="300" alt="gif" src="http://i.imgur.com/PbgXEjJ.gif" > | | <img height="300" alt="gif" src="http://imgur.com/LtQoAaT.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/OHA2add.gif" > |
-
-
-| Munkhtegsh M. ([Repo](https://github.com/munkhtegsh/tippo)) | | Jesse B. ([Repo](https://github.com/cityofwalls/TipTop)) | 
-| ---------------------------- |  ---------------------------- |  ---------------------------- | 
-| (Feedback Issue) | | (Feedback Issue) |
-| <img height="300" alt="gif" src="https://hills.ccsf.edu/~mmunkhb2/cnit131/TipCalculator.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/LeC17Pr.gif" > |
+| ([Feedback Issue](https://github.com/elam3/warikan/issues/1)) | | (Feedback Issue) | | (Feedback Issue) |
+| <img height="300" alt="gif" src="http://i.imgur.com/PbgXEjJ.gif" > | | <img height="300" alt="gif" src="https://hills.ccsf.edu/~mmunkhb2/cnit131/TipCalculator.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/LeC17Pr.gif" > |
 
 
 ---
