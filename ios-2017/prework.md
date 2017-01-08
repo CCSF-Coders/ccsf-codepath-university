@@ -1,6 +1,9 @@
 #####Prework assignment given by CodePath for Spring 2017 University iOS:
 http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 
+* [CCSF submissions](https://github.com/CCSF-Coders/ccsf-codepath-university/blob/master/ios-2017/prework.md#ccsf-submissions)
+* [SFSU submissions](https://github.com/CCSF-Coders/ccsf-codepath-university/blob/master/ios-2017/prework.md#sfsu-submissions)
+
 
 #CCSF submissions:
 ---
