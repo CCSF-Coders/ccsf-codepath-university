@@ -1,8 +1,9 @@
 #####Prework assignment given by CodePath for Spring 2017 University iOS:
 http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 
+
+#CCSF submissions:
 ---
-#####CCSF submissions:
 
 | Thomas Z. ([Repo](https://github.com/thomashzhu/tip_fun)) | | Michael L. ([Repo](https://github.com/MiLeung/Tipster)) | | Robert H. ([Repo](https://github.com/luckyx1/tip_calculator_ios)) | 
 | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |  ---------------------------- | 
@@ -38,6 +39,71 @@ http://courses.codepath.com/snippets/intro_to_ios/prework_university.md
 | ---------------------------- |  ---------------------------- |  ---------------------------- | 
 | (Feedback Issue) | | (Feedback Issue) |
 | <img height="300" alt="gif" src="https://hills.ccsf.edu/~mmunkhb2/cnit131/TipCalculator.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/LeC17Pr.gif" > |
+
+
+---
+#SFSU submissions:
+---
+
+| xxxDustyn B. ([Repo](https://github.com/dustynaugust/tipCalc_CodePathU)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/dustynaugust/tipCalc_CodePathU/issues/1)) |
+| <img height="300" alt="gif" src="https://github.com/dustynaugust/tipCalc_CodePathU/blob/master/tipCalcWalkthrough.gif?raw=true" > |
+
+| xxxChengjiu H. ([Repo](https://github.com/cjhong6/iWill-Tip)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/cjhong6/iWill-Tip/issues/1)) |
+| <img height="300" alt="gif" src="https://cloud.githubusercontent.com/assets/15274466/20820001/e05e9044-b7ec-11e6-9e56-a45c4e53c2f4.gif" > |
+
+| xxxRodrigo B. ([Repo](https://github.com/rodrigobell/tipster)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/rodrigobell/tipster/issues/1)) |
+| <img height="300" alt="gif" src="https://github.com/rbell594/tipster/blob/master/assets/demo.gif" > |
+
+| xxxSang S. ([Repo](https://github.com/SangSaephan/CodePath-ExtraTips)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/SangSaephan/CodePath-ExtraTips/issues/1)) |
+| <img height="300" alt="gif" src="https://github.com/SangSaephan/CodePath-ExtraTips/blob/master/ExtraTips.gif?raw=true" > |
+
+| xxxEdwin Y. ([Repo](https://github.com/edwinyoung/tipper)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/edwinyoung/tipper/issues/1)) |
+| <img height="300" alt="gif" src="http://i.imgur.com/J7tNatZ.gif" > |
+
+| xxxJay W. ([Repo](https://github.com/Jayywong/tipCalculator-iOS)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/Jayywong/tipCalculator-iOS/issues/1)) |
+| <img height="300" alt="gif" src="https://github.com/Jayywong/tipCalculator-iOS/blob/master/tip.gif?raw=true" > |
+
+| yyyGregory R. ([Repo](https://github.com/dreruff/TipCalculator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/dreruff/TipCalculator/issues/1)) |
+| <img height="300" alt="gif" src="http://i.imgur.com/XS7Hiqv.gif" > |
+
+| zzzSukhjit S. ([Repo](https://github.com/sukhjitsingh/tipCal)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/sukhjitsingh/tipCal/issues/1)) |
+| <img height="300" alt="gif" src="http://i.imgur.com/SZbI83j.gif" > |
+
+| zzzRyan L. ([Repo](https://github.com/ryanliszewski/TipCalculator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/ryanliszewski/TipCalculator/issues/1)) |
+| <img height="300" alt="gif" src="http://i.imgur.com/moMffYq.gif" > |
+
+| zzzJinghui H. ([Repo](https://github.com/jhuang28/Tippro)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/jhuang28/Tippro/issues/1)) |
+| <img height="300" alt="gif" src="http://csc412sfsu.com/~jhuang28/Tippro%20Walkthru.gif" > |
+
+| Poojan D. ([Repo](https://github.com/pdave-sfsu/TipCalculatorProper)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/pdave-sfsu/TipCalculatorProper/issues/1)) |
+| <img height="300" alt="gif" src="https://github.com/pdave-sfsu/TipCalculatorProper/blob/master/TipCalculatorGif.gif?raw=true" > |
+
+| Hung D. ([Repo](https://github.com/IamHungDo/TipCalculator)) | 
+| ---------------------------- | 
+| ([Feedback Issue](https://github.com/IamHungDo/TipCalculator/issues/1)) |
+| <img height="300" alt="gif" src="http://imgur.com/rlLDxQL.gif" > |
 
 
 ---
