@@ -1,6 +1,9 @@
 #####Prework assignment given by CodePath for Spring 2017 University Web App Security:
 http://courses.codepath.com/snippets/web_security_university/prework
 
+* [CCSF submissions](https://github.com/CCSF-Coders/ccsf-codepath-university/blob/master/websec-2017/prework.md#ccsf-submissions)
+* [SFSU submissions](https://github.com/CCSF-Coders/ccsf-codepath-university/blob/master/websec-2017/prework.md#sfsu-submissions)
+* [UCSD submissions](https://github.com/CCSF-Coders/ccsf-codepath-university/blob/master/websec-2017/prework.md#ucsd-submissions)
 
 #CCSF submissions:
 ---
