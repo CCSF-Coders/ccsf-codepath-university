@@ -8,6 +8,16 @@ http://courses.codepath.com/snippets/web_security_university/prework
 #CCSF submissions:
 ---
 
+| Elizabeth B. ([Repo](https://github.com/EBiddlecome/guesscheck)) | 
+| ---------------------------- | 
+| (Feedback Issue) |
+| <img height="300" alt="gif" src="http://i.imgur.com/MWX5Zxo.gif" > |
+
+| Kristina M. ([Repo](https://github.com/kmcelveen/Tippah)) | 
+| ---------------------------- | 
+| (Feedback Issue) |
+| <img height="300" alt="gif" src="http://i.imgur.com/3TKMtfB.gif" > |
+
 | Juan L. ([Repo](https://github.com/jlara310/tipster)) | 
 | ---------------------------- | 
 | ([Feedback Issue](https://github.com/jlara310/tipster/issues/1)) |
