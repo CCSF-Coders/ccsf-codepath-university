@@ -1,7 +1,7 @@
 ### CCSF submissions for CodePath University Spring 2017 iOS
 
 - [prework](prework.md)
-- week 1 - flicks
+- [week 1 - flicks](week1-flicks.md)
 - week 2 - flicks
 - week 3 - yelp
 - week 4 - twitter
