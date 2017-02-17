@@ -4,7 +4,7 @@ https://courses.codepath.com/courses/ios_university/unit/1#!assignment
 | Sang S. ([Repo](https://github.com/SangSaephan/CodePath-Flicks)) | | Ryan L. ([Repo](https://github.com/ryanliszewski/Flickster)) | | Dustyn B. ([Repo](https://github.com/dustynaugust/MovieViewer)) | | Poojan D. ([Repo](https://github.com/pdave-sfsu/Flicks)) | 
 | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |  ---------------------------- | ---------------------------- | 
 | ([Feedback Issue](https://github.com/SangSaephan/CodePath-Flicks/issues/1)) | | ([Feedback Issue](https://github.com/ryanliszewski/Flickster/issues/1)) | | ([Feedback Issue](https://github.com/dustynaugust/MovieViewer/issues/1)) | | ([Feedback Issue](https://github.com/pdave-sfsu/Flicks/issues/1)) | 
-| <img height="300" alt="gif" src="https://github.com/SangSaephan/CodePath-Flicks/blob/master/Flicks.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/svbJW2X.gif" > | | <img height="300" alt="gif" src="https://github.com/dustynaugust/MovieViewer/blob/master/movieViewerWalkthrough.gif" > | | <img height="300" alt="gif" src="https://github.com/pdave-sfsu/Flicks/blob/master/FlicksGIF.gif" > |
+| <img height="300" alt="gif" src="https://github.com/SangSaephan/CodePath-Flicks/blob/master/Flicks.gif" > | | <img height="300" alt="gif" src="http://i.imgur.com/svbJW2X.gif?raw=true" > | | <img height="300" alt="gif" src="https://github.com/dustynaugust/MovieViewer/blob/master/movieViewerWalkthrough.gif" > | | <img height="300" alt="gif" src="https://github.com/pdave-sfsu/Flicks/blob/master/FlicksGIF.gif" > |
 
 
 | Thomas Z. ([Repo](https://github.com/thomashzhu/MovieViewer)) | | Barbara R. ([Repo](https://github.com/ristau/Flicks_Basic)) | | Rodrigo B. ([Repo](https://github.com/rodrigobell/movie-viewer)) | | Robert M. ([Repo](https://github.com/squeakyheatr/Flicks)) | 
@@ -35,7 +35,6 @@ https://courses.codepath.com/courses/ios_university/unit/1#!assignment
 | ---------------------------- | 
 | (Issue) |
 | <img height="300" alt="gif" src="http://i.imgur.com/zOLQaLf.gif" > |
-| http://i.imgur.com/zOLQaLf.gif |
 
 
 ---
